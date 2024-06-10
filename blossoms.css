@@ -43,10 +43,6 @@
   /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
   /* GENERAL */
-  --main-font: Lexend, sans-serif;
-  /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
-  --code-font: Fira Code;
-  /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   --text-normal: #FFE9ED;
   /* color of default discord text */
   --text-muted: #7F5B62;
