@@ -306,7 +306,7 @@ div.scroller__89969.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0 > ul > li:nth-ch
     fill: currentColor !important;
 }
 
-[class^="unread__"] {
+[class^="unread_"] {
   display: block;
   color: var(--channel-color);
   background-color: currentColor;
