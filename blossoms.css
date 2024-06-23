@@ -317,7 +317,7 @@ div.scroller__89969.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0 > ul > li:nth-ch
   color: var(--text-normal) !important;
 }
 
-*:not(svg *) {
+[class^="iconVisibility_"] {
   filter: none !important;
   text-shadow: none !important;
 }
